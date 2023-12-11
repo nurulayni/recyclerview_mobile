@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Baju  Adat Bodo</item>
+        <item>Baju Kurung Minang</item>
+        <item>Baju Adat Sunda</item>
+        <item>Baju Adat Betawi</item>
+        <item>Baju Adat Dayak</item>
+        <item>Baju Adat Bali</item>
+        <item>Baju Adat Papua</item>
+        <item>Adat Aceh</item>
+        <item>Baju Adat Palembang</item>
+        <item>Baju Adat Maluku</item>
+        <item>Baju Adat Mandar</item>
+        <item>Baju Adat NTB</item>
+        <item>Baju Adat Bahau</item>
+        <item>Baju Adat Kajang </item>
+        <item>Baju Adat Kenyah</item>
+
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Baju Bodo merupakan pakaian tradisional dari daerah Sulawesi Selatan, Indonesia. Baju ini biasanya digunakan oleh wanita, dan memiliki ciri khas berupa potongan longgar dan tidak berbentuk seperti busana pada umumnya. Baju Bodo seringkali terbuat dari kain batik atau kain tradisional bugis lainnya.</item>
+        <item>Baju Kurung dalam budaya Minang, adalah pakaian tradisional yang berasal dari masyarakat Minangkabau di Sumatra Barat, Indonesia. Baju adat Minangkabau sangat khas dengan desainnya yang unik dan memiliki makna budaya yang mendalam.</item>
+        <item>Baju adat Sunda adalah pakaian tradisional yang berasal dari masyarakat Sunda, Jawa Barat, Indonesia. Baju adat Sunda memiliki keindahan dan keunikannya sendiri.</item>
+        <item>Baju adat Betawi adalah pakaian tradisional yang berasal dari masyarakat Betawi, yang merupakan suku asli Jakarta, Indonesia. Pakaian adat Betawi memiliki unsur budaya yang kaya dan mencerminkan sejarah serta keberagaman etnis yang ada di Jakarta. </item>
+        <item>Baju adat Dayak mencerminkan kekayaan budaya dari suku Dayak, sebuah kelompok etnis yang mendiami wilayah pedalaman di pulau Kalimantan, Indonesia. Pakaian adat Dayak umumnya beragam dan memiliki kekhasan sesuai dengan suku dan wilayah masing-masing.</item>
+        <item>Baju adat Bali mencerminkan kekayaan budaya dan seni tradisional masyarakat Bali, Indonesia. Digunakan dalam berbagai acara seperti upacara keagamaan, pernikahan, pertunjukan seni, dan perayaan adat lainnya. </item>
+        <item>Baju adat Papua mencerminkan keanekaragaman budaya yang kaya di provinsi Papua, Indonesia. Berbagai suku bangsa di Papua memiliki pakaian adatnya sendiri, mencerminkan tradisi, kepercayaan, dan lingkungan mereka.</item>
+        <item>Baju adat Aceh mencerminkan kekayaan budaya masyarakat Aceh, sebuah provinsi di ujung barat Pulau Sumatra, Indonesia. Pakaian adat Aceh umumnya dikenal dengan kekayaan warna, hiasan, dan keindahan desainnya.</item>
+        <item>Baju adat Palembang mencerminkan kekayaan budaya masyarakat Palembang, Sumatra Selatan, Indonesia. Palembang memiliki tradisi yang kaya, dan pakaian adatnya mencerminkan keindahan dan keunikan budaya tersebut. </item>
+        <item>Baju adat Maluku sering digunakan dalam berbagai upacara adat, perayaan, dan acara penting lainnya. Desain pakaian ini mencerminkan kekayaan seni dan budaya masyarakat Maluku serta hubungan erat mereka dengan alam dan tradisi nenek moyang.</item>
+        <item>Baju adat mandar merupakan pakaian tradisional dari daerah Sulawesi Selatan, Indonesia. Baju ini biasanya digunakan oleh wanita, dan memiliki ciri khas berupa potongan longgar dan tidak berbentuk seperti busana pada umumnya. Seringkali terbuat dari kain batik atau kain tradisional mandar lainnya.</item>
+        <item>Baju adat NTB mencerminkan keanekaragaman budaya yang kaya di provinsi NTB, Indonesia. Berbagai suku bangsa di ntt memiliki pakaian adatnya sendiri, mencerminkan tradisi, kepercayaan, dan lingkungan mereka.</item>
+        <item>Baju adat Bahau mencerminkan keanekaragaman budaya yang kaya di provinsi kalimantan, Indonesia. Berbagai suku bangsa di kalimantan memiliki pakaian adatnya sendiri, mencerminkan tradisi, kepercayaan, dan lingkungan mereka.</item>
+        <item>Baju adat kajang mencerminkan keanekaragaman budaya yang kaya di provinsi sulawesi, Indonesia. Berbagai suku bangsa di kajang memiliki pakaian adatnya sendiri, mencerminkan tradisi, kepercayaan, dan lingkungan mereka.</item>
+        <item>Baju adat Dayak mencerminkan kekayaan budaya dari suku Dayak, sebuah kelompok etnis yang mendiami wilayah pedalaman di pulau Kalimantan, Indonesia. Pakaian adat Dayak umumnya beragam dan memiliki kekhasan sesuai dengan suku dan wilayah masing-masing.</item>
+    </string-array>
+
+
+    <array name="video_id">
+        <item>@raw/adatbodo</item>
+        <item>@raw/minangkurung</item>
+        <item>@raw/sunda</item>
+        <item>@raw/betawi</item>
+        <item>@raw/dayak</item>
+        <item>@raw/balii</item>
+        <item>@raw/papua</item>
+        <item>@raw/aceh</item>
+        <item>@raw/palembang</item>
+        <item>@raw/maluku</item>
+        <item>@raw/mandar</item>
+        <item>@raw/ntbadat</item>
+        <item>@raw/bahau</item>
+        <item>@raw/kajang</item>
+        <item>@raw/kenyah</item>
+
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/bodo1</item>
+        <item>@drawable/kurung</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar</item>
+        <item>@drawable/minangkabau</item>
+        <item>@drawable/images</item>
+        <item>@drawable/malukuu</item>
+        <item>@drawable/mandar</item>
+        <item>@drawable/ntb</item>
+        <item>@drawable/bahau</item>
+        <item>@drawable/kajang</item>
+        <item>@drawable/kenyah</item>
+    </integer-array>
+</resources>
